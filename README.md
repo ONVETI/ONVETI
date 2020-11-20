@@ -10,7 +10,7 @@ I am Quvonchbek Yangiboyev 🙋‍♂️, a Android Developer & Figma, Adobe XD 
 <p align="center">
 
 <a href="https://github.com/onveti?tab=followers">
-<img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="Github badge"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/onveti?color=%23000000&style=for-the-badge">
 </a>
 
 <a href="https://discord.gg/HrsJhCM"/>
@@ -20,7 +20,4 @@ I am Quvonchbek Yangiboyev 🙋‍♂️, a Android Developer & Figma, Adobe XD 
 <a href="http://youtube.com/onveti?sub_confirmation=1">
   <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/v3H_aazuf7w?color=%23f01000&style=for-the-badge">
 </a>
-
-
-
 </p>
