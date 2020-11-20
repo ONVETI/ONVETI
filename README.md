@@ -9,42 +9,42 @@ I am Quvonchbek Yangiboyev 🙋‍♂️, a Android Developer & Figma, Adobe XD 
 
 <p align="center">
 
-//github
+<!--github-->
 <a href="https://github.com/onveti?tab=followers">
 <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-//gitlab
+<!--gitlab-->
 <a href="https://gitlab.com/onveti">
 <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
 
 
-//discord
+<!--discord-->
 <a href="https://discord.gg/HrsJhCM"/>
 <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 
-//youtube
+<!--youtube-->
 <a href="http://youtube.com/onveti?sub_confirmation=1">
   <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 
-//telegram
+<!--telegram-->
 <a href="https://t.me/ideal_dasturchi">
 <img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 
-//instagram
+<!--instagram-->
 <a href="https://instagram.com/ideal_dasturchi">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 
-//playmarket
+<!--playmarket-->
 <a href="https://play.google.com/store/apps/dev?id=7569033878856998156">
 <img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge"/>
 </a>
