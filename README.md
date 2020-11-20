@@ -29,6 +29,5 @@ I am Quvonchbek Yangiboyev 🙋‍♂️, a Android Developer & Figma, Adobe XD 
 
 <br>
 <br>
-<br>
 
 ![ONVETI's Github stats](https://github-readme-stats.vercel.app/api?username=onveti&show_icons=true&theme=default)
