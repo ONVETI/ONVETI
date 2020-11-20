@@ -22,6 +22,6 @@ I am Quvonchbek Yangiboyev 🙋‍♂️, a Android Developer & Figma, Adobe XD 
 </a>
 
 <a href="http://youtube.com/onveti?sub_confirmation=1">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/onveti?color=%23000000&style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/onveti?color=%23000000&style=for-the-badge&logo=youtube">
   </a>
 </p>
