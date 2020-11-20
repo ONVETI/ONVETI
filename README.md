@@ -6,5 +6,22 @@ I am Quvonchbek Yangiboyev 🙋‍♂️, a Android Developer & Figma, Adobe XD 
 
 ## Connect with Me 🤝🏻
 
-<a href="https://youtube.com/ONVETI" rel="nofollow"></a>
-<a href="https://gitlab.com/ONVETI" rel="nofollow"><img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/gl.svg" alt="GitLab" style="max-width:100%;"></a>
+
+<p aligne"center">
+
+<a href="https://github.com/onveti?tab=followers">
+  
+<img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style-for-the-badge" alt="Github badge"/>
+</a>
+
+<a href="https://discord.com/invite/j20s6wu">
+  
+  <img src="https://img.shields.1o/discord/699688417039286293?logo=discord&style=for-the-badge"/>
+</a>
+
+<a href="http://youtube.com/onveti?sub_confirmation=1">
+
+<img src="https://img.shields.io/youtube/views/21zRSHTSHtw8?label=YouTube&logo=YouTube&style=for-the-bad"/>
+
+</a>
+</p>
