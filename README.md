@@ -21,3 +21,5 @@ I am Quvonchbek Yangiboyev 🙋‍♂️, a Android Developer & Figma, Adobe XD 
   <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/v3H_aazuf7w?color=%23f01000&style=for-the-badge&logo=youtube">
 </a>
 </p>
+
+![gif](https://github.com/ONVETI/ONVETI/raw/main/dino.gif)
