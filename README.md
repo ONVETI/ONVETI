@@ -14,11 +14,14 @@ I am Quvonchbek Yangiboyev 🙋‍♂️, a Android Developer & Figma, Adobe XD 
 </a>
 
 <a href="https://discord.gg/HrsJhCM"/>
-  <img src="https://img.shields.io/discord/699688417039286293?logo=discord&style=for-the-badge"/>
+<img alt="Discord" src="https://img.shields.io/discord/767451789917683722?color=%237289DA?label=Followers&logo=GitHub&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/onveti?label=Followers&logo=GitHub&style=for-the-badge"/>
 </a>
 
 <a href="http://youtube.com/onveti?sub_confirmation=1">
-<img src="https://img.shields.io/youtube/views/21zRSHTSHtw8?label=YouTube&logo=YouTube&style=for-the-bad"/>
+<img src="https://img.shields.io/youtube/views/v3H_aazuf7w?color=ds&style=for-the-badge"/>
 </a>
+
+
 
 </p>
