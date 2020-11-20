@@ -2,6 +2,6 @@
 
 # Hello there! 👋🏻
 
-I am Quvonchbek Yangiboyev, a Android Developer & Figma, Adobe XD Designer.
+I am Quvonchbek Yangiboyev 🙋‍♂️, a Android Developer & Figma, Adobe XD Designer.
 
 
