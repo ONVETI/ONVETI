@@ -1,4 +1,4 @@
-![img](https://github.com/ONVETI/ONVETI/raw/main/play console account bg.jpg)
+![img](https://github.com/ONVETI/ONVETI/blob/main/play%20console%20account%20bg.jpg)
 
 # Hello there! 👋🏻
 
